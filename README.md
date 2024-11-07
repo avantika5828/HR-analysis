@@ -1,1 +1,1 @@
-# HR-analysis
+Hello I am Avantika persuing MCA (AI&ML) in Chandigarh University.I have created a project in HR analysis of a company.Here we will be able to analysise the assertion rate of employees, their joining their job of ratings.
